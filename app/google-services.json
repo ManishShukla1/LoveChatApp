@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511380175394",
+    "project_id": "lovechat-95133",
+    "storage_bucket": "lovechat-95133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511380175394:android:c4be386ab0faf67663a87b",
+        "android_client_info": {
+          "package_name": "com.example.lovechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511380175394-ekkdhcahdi4qvgfo97jomdv182j3tjcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpk_KxGGa66ltWegy7C8OBBiIEz4UHfCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511380175394-ekkdhcahdi4qvgfo97jomdv182j3tjcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
